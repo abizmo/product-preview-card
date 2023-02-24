@@ -13,7 +13,11 @@ module.exports = {
       sans: ['Montserrat', 'sans-serif'],
       serif: ['Fraunces', 'serif'],
     },
-    extend: {},
+    extend: {
+      letterSpacing: {
+        widest: '.3em',
+      },
+    },
   },
   plugins: [],
 };
