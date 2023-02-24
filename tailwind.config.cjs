@@ -9,6 +9,10 @@ module.exports = {
       'neutral-600': 'hsl(228, 12%, 48%)',
       'neutral-100': 'hsl(0, 0%, 100%)',
     },
+    fontFamily: {
+      sans: ['Montserrat', 'sans-serif'],
+      serif: ['Fraunces', 'serif'],
+    },
     extend: {},
   },
   plugins: [],
