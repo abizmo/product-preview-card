@@ -3,7 +3,8 @@ module.exports = {
   content: ['./index.html'],
   theme: {
     colors: {
-      primary: 'hsl(158, 36%, 37%)',
+      'primary-700': 'hsl(158,42%,18%)',
+      'primary-500': 'hsl(158, 36%, 37%)',
       secondary: 'hsl(30, 38%, 92%)',
       'neutral-900': 'hsl(212, 21%, 14%)',
       'neutral-600': 'hsl(228, 12%, 48%)',
