@@ -7,6 +7,6 @@ body {
   @apply h-full;
 }
 body {
-  @apply text-sm text-neutral-600 bg-secondary;
-  @apply grid content-between;
+  @apply text-sm lg:text-xl text-neutral-600 bg-secondary;
+  @apply grid grid-rows-[1fr_min-content];
 }

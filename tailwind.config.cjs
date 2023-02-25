@@ -14,8 +14,13 @@ module.exports = {
       serif: ['Fraunces', 'serif'],
     },
     extend: {
+      fontSize: {
+        sm: ['14px', 1.65],
+        '3xl': ['2rem', 1],
+      },
       letterSpacing: {
-        widest: '.3em',
+        tighter: '-.04em',
+        widest: '.4em',
       },
     },
   },
